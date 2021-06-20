@@ -1,2 +1,3 @@
 # ML-Projects
-Here is the place where I upload my own machine learning related projects.
+The purpose of this readme documentation is to guide any visitor through the different #deep #learning works that I have implemented and upload here.
+
