@@ -23,6 +23,16 @@ The implementation and results can be found [here](https://github.com/musandur/M
 The implementation and results can be found [here](https://github.com/musandur/ML-Projects/blob/main/Instance_segmentation.ipynb) or copy and paste the link (https://github.com/musandur/ML-Projects/blob/main/Instance_segmentation.ipynb).
 
 # Image classification and adversarial robustness
+In this mini-project, I explored the field of adversarial robustness in image classification. Hence, I used the *(cat, dog)* dataset and te tensorflow Neural Structured Learning (NSL) framework to build robust classification models that can highly resist adversarial attacks. The implementation and results of this work can be found [here](https://github.com/musandur/ML-Projects/blob/main/Project1.ipynb) or copy and paste the link (https://github.com/musandur/ML-Projects/blob/main/Project1.ipynb)
+
+# Image Classification and Model Explainability
+* Classification using **ResNet50** and **Vgg16** CNN models Explainability using **LIME (Local Interpretable Model-agnostic Explanations)** Implementation and results can be found [here](https://github.com/musandur/ML-Projects/blob/main/Model_ResNet50_Vgg16_Explainability.ipynb) or copy and paste the link (https://github.com/musandur/ML-Projects/blob/main/Model_ResNet50_Vgg16_Explainability.ipynb).
+
+
+* 
+
+
+
 
 
 
