@@ -9,7 +9,7 @@ In the folowing, I will provide a quick describtion of each uploaded file and gi
 # Image Segmentation and detection
 First of all, to perform image segmentatoíon and image/object detection, I have chosen to work with synthetic data. That is, I have create my own dataset that I have generated from some mathematical models that I built in the past during some of academic research project. That is indeed very interesting, as it will exposed me to work on a dataset that is very different from the usual ones. Besides, I just felt like my academic research was helpful in the sense that I could use a part of it to perform some AI tasks.
 
-# Image object detection
+# Object detection
 In this work, I have use the MASK-RCNN framework to perform object detection in a custom dataset. Given the nature of my dataset, I have drawn a link to some biological application including single/multiple cell splitting scenarios. The mini-project can be viewed by clicking  [here](https://github.com/musandur/ML-Projects/blob/main/Object_Detection.ipynb) or copy and paste this (https://github.com/musandur/ML-Projects/blob/main/Object_Detection.ipynb)
 
 # Instance and Semantic Segmentation
@@ -22,6 +22,7 @@ The implementation and results can be found [here](https://github.com/musandur/M
 * Semantic Segmention
 The implementation and results can be found [here](https://github.com/musandur/ML-Projects/blob/main/Instance_segmentation.ipynb) or copy and paste the link (https://github.com/musandur/ML-Projects/blob/main/Instance_segmentation.ipynb).
 
-# IMage classification and adversarial robustness
+# Image classification and adversarial robustness
+
 
 
