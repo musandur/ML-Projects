@@ -14,3 +14,9 @@ In this work, I have use the MASK-RCNN framework to perform object detection in 
 
 # Instance and Semantic Segmentation
 
+With the same synthetic dataset, I go forward to work on image segmentation tasks. Thus, I separately implemented the two existing segmaentations: Instance Segmentation and Semantic Segmentation. However, both segmentation tasks were implemented using the U-net(**encode/decoder**) convolutional neural network.
+
+* Instance Segmentation
+
+* Semantic Segmention
+
