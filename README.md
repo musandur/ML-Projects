@@ -29,8 +29,8 @@ In this mini-project, I explored the field of adversarial robustness in image cl
 * Classification using **ResNet50** and **Vgg16** CNN models Explainability using **LIME (Local Interpretable Model-agnostic Explanations)** Implementation and results can be found [here](https://github.com/musandur/ML-Projects/blob/main/Model_ResNet50_Vgg16_Explainability.ipynb) or copy and paste the link (https://github.com/musandur/ML-Projects/blob/main/Model_ResNet50_Vgg16_Explainability.ipynb).
 
 
-* 
-
+* A code-oriented thought-provoking mini-work that states that model  counterfactual explanations could be used as adversarial samples to build an intuitive defense algorithm agaist adversarial attacks. This means combining model explainability techniques and counterfactuals explanations to generate adversarial images and ultimately build a defense algorithm. Work sample can be found [here](https://github.com/musandur/ML-Projects/blob/main/Project2.ipynb) or copy and paste this link (https://github.com/musandur/ML-Projects/blob/main/Project2.ipynb)
+ 
 
 
 
