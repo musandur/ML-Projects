@@ -14,9 +14,14 @@ In this work, I have use the MASK-RCNN framework to perform object detection in 
 
 # Instance and Semantic Segmentation
 
-With the same synthetic dataset, I go forward to work on image segmentation tasks. Thus, I separately implemented the two existing segmaentations: Instance Segmentation and Semantic Segmentation. However, both segmentation tasks were implemented using the U-net(**encode/decoder**) convolutional neural network.
+With the same synthetic dataset, I go forward to work on image segmentation tasks. Thus, I separately implemented the two existing segmaentations: Instance Segmentation and Semantic Segmentation. However, both segmentation tasks were implemented using the U-net (**encode/decoder**) convolutional neural network and the **TensoFlow** framework.
 
 * Instance Segmentation
+The implementation and results can be found [here](https://github.com/musandur/ML-Projects/blob/main/Image_Segmentation_version1.ipynb) or copy and past the link (https://github.com/musandur/ML-Projects/blob/main/Image_Segmentation_version1.ipynb)
 
 * Semantic Segmention
+The implementation and results can be found [here](https://github.com/musandur/ML-Projects/blob/main/Instance_segmentation.ipynb) or copy and paste the link (https://github.com/musandur/ML-Projects/blob/main/Instance_segmentation.ipynb).
+
+# IMage classification and adversarial robustness
+
 
